@@ -109,6 +109,9 @@
         <mxCell id="4CRqliBf5WWVCHQqqkXn-65" value="Dining room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745.5" y="488" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-66" value="Area Road" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685.5" y="103" width="144.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
