@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="KPouFY5jENLB8fUOII4G">
-    <mxGraphModel>
+    <mxGraphModel dx="1908" dy="2310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="70" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-3" value="WEST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-4" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-4" value="EAST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-5" value="SOUTH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-6" value="NORTH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="131" y="100" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-10" value="GATE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-89;" vertex="1" parent="1">
+          <mxGeometry x="119" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CRqliBf5WWVCHQqqkXn-11" value="11 fit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="125.5" width="65" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
